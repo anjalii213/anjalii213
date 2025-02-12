@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjalii213
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning development
+- 🌱 I’m currently learning Data science integrated with AI
 - 😄 Pronouns: she/her
   
 
